@@ -27,7 +27,7 @@ PKI,Public Key Infrastructure,Cryptography,
 PSK,Pre-Shared Key,Cryptography,
 RAM,Random Access Memory,Computer Hardware,
 RCE, Remote Code Execution,Information Security,
-SCSI,Small Computer Systems Interface,Computer Hardware,
+SCSI,Small Computer System Interface,Computer Hardware,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
 SWOT,Strengths Weaknesses Opportunities Threats,Business,strategic technology
@@ -37,3 +37,25 @@ TTP,Tactics Techniques Procedures,Information Security,
 UDP,User Datagram Protocol,Computer Networking,
 WAF,Web Application Firewall,Information Security,
 YAGNI,Your Not Gonna Need It,Software Development,
+AST,Abstract Syntax Tree,Computer Science,
+IDE,Integrated Device Electronics,computer hardware,
+IDE,interactive Development Environment,software development,e.g. VSCode or Pycharm
+HDD,Hard Disk Drive,computer hardware,see IDE
+ietf,internet engineering task force,computer science,
+kdf,Key Derivation Function,Cryptography,
+tpm,trusted platform module,computer hardware,
+gpu,graphics processing unit,computer hardware,
+saml,security assertion markup language,information security,
+aes,Advanced encryption standard,Cryptography,
+ike,internet key exchange,Cryptography
+guid,globally unique identifier,computer science,
+uuid,universally unique identifier,computer science,
+iat,import address table,software development,also used in Remote
+rem,reverse engineering malware,information security,
+pe,portable executable,computer science,windows based OS
+mrm,messaging records management,system administration,
+plebkac,problem lies between keyboard and chair,system administration,
+com,common object model,software development,windows software
+mqtt,message queueing telemetry transport,computer networking,
+mttr,mean time to repair,business,can also be used in incident response as a metric
+edr,endpoint detection and response,information security,
