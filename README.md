@@ -1,2 +1,3 @@
 # acronyms
- collection of acronyms from business, technology, infosec, and engineering
+ 
+ collection of acronyms from business, technology, security, and engineering
