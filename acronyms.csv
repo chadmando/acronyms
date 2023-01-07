@@ -18,16 +18,16 @@ OS,Operating System,Computer Science,
 OSI,Open Systems Interconnection,Computer Networking,
 OTP,One-Time Pad,Cryptography,
 PAM,Privileged Access Management,Information Security,
+PESTL,Political Economic Social Technological Environmental Legal, Business, strategic
 PKI,Public Key Infrastructure,Cryptography,
 PSK,Pre-Shared Key,Cryptography,
 RAM,Random Access Memory,Computer Hardware,
 RCE, Remote Code Execution,Information Security,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
+SWOT,Strengths Weaknesses Opportunities Threats,Business,strategic technology
 TCP,Transmission Control Protocol,Computer Networking,
 TLD,Top Level Domain,Computer Science,overseen by IANA
 TTP,Tactics Techniques Procedures,Information Security,
 UDP,User Datagram Protocol,Computer Networking,
-waf,web application firewall,information security,
-swot,strengths weaknesses opportunities threats,business,strategic technology
-pestl,political economic social technological environmental legal, business, strategic
+WAF,Web Application Firewall,Information Security,
