@@ -11,7 +11,7 @@ jobs:
   csv-linter:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: lint csv file
         run:  python csv_linter.py acronyms.csv
           
