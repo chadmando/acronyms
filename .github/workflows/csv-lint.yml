@@ -1,0 +1,22 @@
+name: Lint CSV file
+on:
+  push:
+    paths:
+      - acronyms.csv
+  pull_request:
+    paths:
+      - acronyms.csv
+
+jobs:
+  csv-linter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: lint csv file
+        run:  python csv_linter.py acronyms.csv
+          
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v1
+        with:
+          commit_message: Lint CSV file
+          push: true
