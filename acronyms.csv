@@ -61,7 +61,7 @@ OTP,One-Time Pad,Cryptography,
 PAM,Privileged Access Management,Information Security,
 PCI,Payment Card Industry,Business,also used in information security due to compliance
 PE,Portable Executable,Computer Science,windows based OS
-PESTL,Political Economic Social Technological Environmental Legal, Business, strategic
+PESTEL,Political Economic Social Technological Environmental Legal, Business, strategic
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
 PSK,Pre-Shared Key,Cryptography,
