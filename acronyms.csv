@@ -90,3 +90,15 @@ VPN,Virtual Private Network,Computer Networking,
 WAF,Web Application Firewall,Information Security,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+FTE,full-time employee,business,
+cba,collective bargaining agreement,business,union contract
+cbu,collective bargaining unit,business,a group with mutual interest e.g. labor union
+icmp,internet control message protocol,computer networking,protocol behind the ping command
+snmp,simple network management protocol,computer science,
+smtp,simple mail transfer protocol,computer science,e-mail
+ldap,lightweight directory access protocol,computer science,
+arp,address resolution protocol,computer networking,
+fqdn,fully qualified domain name,computer science,see DNS
+sctp,stream control transmission protocol,computer networking,
+nas,network attached storage,computer hardware,
+oee,overall equipment effectiveness,business,manufacturing metric used in kanban
