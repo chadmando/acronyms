@@ -2,9 +2,12 @@ Acronym,Meaning,Context,Notes
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
 APT,Advanced Persistent Threat,Information Security,
+ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
 AST,Abstract Syntax Tree,Computer Science,
 BEC,Business Email Compromise,Information Security,
+CBA,Collective Bargaining Agreement,Business,union contract
+CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
 CD,Continuous Deployment,Software Development,
 CI,Continuous Integration,Software Developement,
 CIA,Confidentiality Integrity Availability,Information Security,known as the triad
@@ -20,6 +23,8 @@ DNS,Domain Name System,Computer Science,
 DRY,Don'T Repeat Yourself,Software Development,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDR,Endpoint Detection And Response,Information Security,
+FQDN,Fully Qualified Domain Name,Computer Science,see DNS
+FTE,Full-Time Employee,Business,
 FTP,File Transfer Protocol,Computer Science,
 GCM,Galois Counter Mode,Cryptography,
 GPU,Graphics Processing Unit,Computer Hardware,
@@ -30,6 +35,7 @@ HTTP,Hyper Text Transfer Protocol,Computer Science,
 IAB,Initial Access Broker,Information Security,
 IANA,Internet Assigned Numbers Authority,Computer Science,
 IAT,Import Address Table,Software Development,also used in Remote
+ICMP,Internet Control Message Protocol,Computer Networking,protocol behind the ping command
 IDE,Integrated Device Electronics,Computer Hardware,
 IDE,Interactive Development Environment,Software Development,e.g. VSCode or Pycharm
 IDEA,International Data Encryption Algorithm,Cryptography,
@@ -43,6 +49,7 @@ IPS,Intrusion Prevention System,Information Security,
 IR,Incident Response,Information Security,
 KBA,Knowledge-Based Authentication,Information Security,
 KDF,Key Derivation Function,Cryptography,
+LDAP,Lightweight Directory Access Protocol,Computer Science,
 LRU,Least Recently Used,Computer Science,
 MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
@@ -52,9 +59,11 @@ MITM,Man In The Middle,Information Security,
 MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
 MTTR,Mean Time To Repair,Business,can also be used in incident response as a metric
+NAS,Network Attached Storage,Computer Hardware,
 NIC,Network Interface Card,Computer Hardware,
 NIST,National Institute Of Standards And Technology,Information Security,
 NTP,Network Time Protocol,Computer Science,
+OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
 OS,Operating System,Computer Science,
 OSI,Open Systems Interconnection,Computer Networking,
 OTP,One-Time Pad,Cryptography,
@@ -72,7 +81,10 @@ REM,Reverse Engineering Malware,Information Security,
 ROM,Read-Only Memory,Computer Science,
 SAML,Security Assertion Markup Language,Information Security,
 SCSI,Small Computer System Interface,Computer Hardware,
+SCTP,Stream Control Transmission Protocol,Computer Networking,
 SMB,Server Message Block,Computer Science,
+SMTP,Simple Mail Transfer Protocol,Computer Science,e-mail
+SNMP,Simple Network Management Protocol,Computer Science,
 SQL,Structured Query Language,Computer Science,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
@@ -90,15 +102,3 @@ VPN,Virtual Private Network,Computer Networking,
 WAF,Web Application Firewall,Information Security,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-FTE,full-time employee,business,
-cba,collective bargaining agreement,business,union contract
-cbu,collective bargaining unit,business,a group with mutual interest e.g. labor union
-icmp,internet control message protocol,computer networking,protocol behind the ping command
-snmp,simple network management protocol,computer science,
-smtp,simple mail transfer protocol,computer science,e-mail
-ldap,lightweight directory access protocol,computer science,
-arp,address resolution protocol,computer networking,
-fqdn,fully qualified domain name,computer science,see DNS
-sctp,stream control transmission protocol,computer networking,
-nas,network attached storage,computer hardware,
-oee,overall equipment effectiveness,business,manufacturing metric used in kanban
