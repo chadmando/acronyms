@@ -95,7 +95,7 @@ PCI,Payment Card Industry,Business,also used in information security due to comp
 PE,Portable Executable,Computer Science,windows based OS
 PESTEL,Political Economic Social Technological Environmental Legal, Business, strategic
 PFS,Perfect Forward Secrecy,Cryptography,
-PKCS,Public Key Cryptography Standard,Cryptography,
+PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
 PSK,Pre-Shared Key,Cryptography,
@@ -139,3 +139,14 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+cms,content management system,software development,
+pop,post office protocol,computer science,Email
+ADFS,Active Directory Federation Services,Microsoft Windows Server,
+gpo,Group policy object,microsoft windows,
+HIPAA,health insurance portability & accountability act,business,Hard
+kpi,key performance indicator,business,metrics
+smart,specific measurable attainable relevant time-bound,business,goal setting
+byod,bring your own device,Information Technology,hardware policy
+mbti,myers-Briggs Type indicator,personality testing,
+html,hypertext markup language,software development,
+css,Cascading style sheet,software development,
