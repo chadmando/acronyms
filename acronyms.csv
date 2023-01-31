@@ -1,4 +1,5 @@
 Acronym,Meaning,Context,Notes
+ADFS,Active Directory Federation Services,Microsoft Windows Server,
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
 APT,Advanced Persistent Threat,Information Security,
@@ -7,6 +8,7 @@ ASCII,American Standard Code For Information Interchange,Computer Science,
 AST,Abstract Syntax Tree,Computer Science,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
+BYOD,Bring Your Own Device,Information Technology,hardware policy
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
 CD,Continuous Deployment,Software Development,
@@ -16,12 +18,14 @@ CIFS,Common Internet File System,Computer Science,
 CIM,Common Information Model,System Administration,
 CMM,Coordinate Measuring Machine,Manufacturing,
 CMS,Cryptographic Message Syntax,Cryptography,
+CMS,Content Management System,Software Development,
 CNC,Computer Numerical Control,Manufacturing,
 COM,Common Object Model,Software Development,windows software
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
 CRUD,Create Read Update Delete,Software Development,
 CSIRT,Computer Security Incident Response Team,Information Security,
+CSS,Cascading Style Sheet,Software Development,
 CTI,Cyber Threat Intelligence,Information Security,
 DES,Data Encryption Standard,Cryptography,
 DFS,Distributed File System,Computer Science,
@@ -41,12 +45,15 @@ FTE,Full-Time Employee,Business,
 FTP,File Transfer Protocol,Computer Science,
 GCM,Galois Counter Mode,Cryptography,
 GDPR,General Data Protection Regulation,Information Security,
+GPO,Group Policy Object,Microsoft Windows,
 GPU,Graphics Processing Unit,Computer Hardware,
 GRE,Generic Routing Encapsulation,Computer Networking,
 GUID,Globally Unique Identifier,Computer Science,
 HDD,Hard Disk Drive,Computer Hardware,see IDE
+HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
 HSM,Hardware Security Module,Computer Hardware,
+HTML,Hypertext Markup Language,Software Development,
 HTTP,Hyper Text Transfer Protocol,Computer Science,
 IAB,Initial Access Broker,Information Security,
 IANA,Internet Assigned Numbers Authority,Computer Science,
@@ -66,12 +73,14 @@ IPS,Intrusion Prevention System,Information Security,
 IR,Incident Response,Information Security,
 KBA,Knowledge-Based Authentication,Information Security,
 KDF,Key Derivation Function,Cryptography,
+KPI,Key Performance Indicator,Business,metrics
 LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
 LRU,Least Recently Used,Computer Science,
 MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
+MBTI,Myers-Briggs Type Indicator,Personality Testing,
 MFA,Multi-Factor Authenication,Information Security,
 MITM,Man In The Middle,Information Security,
 MQTT,Message Queueing Telemetry Transport,Computer Networking,
@@ -98,6 +107,7 @@ PFS,Perfect Forward Secrecy,Cryptography,
 PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
+POP,Post Office Protocol,Computer Science,Email
 PSK,Pre-Shared Key,Cryptography,
 RAM,Random Access Memory,Computer Hardware,
 RBAC,Role Based Access Controls,Information Security,
@@ -110,6 +120,7 @@ SAN,Storage Area Network,Computer Science,
 SCSI,Small Computer System Interface,Computer Hardware,
 SCTP,Stream Control Transmission Protocol,Computer Networking,
 SIEM,Security Information & Event Management,Information Security,
+SMART,Specific Measurable Attainable Relevant Time-Bound,Business,goal setting
 SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
 SMTP,Simple Mail Transfer Protocol,Computer Science,e-mail
@@ -139,14 +150,3 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-cms,content management system,software development,
-pop,post office protocol,computer science,Email
-ADFS,Active Directory Federation Services,Microsoft Windows Server,
-gpo,Group policy object,microsoft windows,
-HIPAA,health insurance portability & accountability act,business,Hard
-kpi,key performance indicator,business,metrics
-smart,specific measurable attainable relevant time-bound,business,goal setting
-byod,bring your own device,Information Technology,hardware policy
-mbti,myers-Briggs Type indicator,personality testing,
-html,hypertext markup language,software development,
-css,Cascading style sheet,software development,
