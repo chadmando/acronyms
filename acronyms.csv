@@ -2,6 +2,7 @@ Acronym,Meaning,Context,Notes
 ADFS,Active Directory Federation Services,Microsoft Windows Server,
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
+AHU,Air-Handling Unit,Mechanical Engineering,HVAC Equipment
 APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
@@ -12,8 +13,10 @@ BYOD,Bring Your Own Device,Information Technology,hardware policy
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
 CD,Continuous Deployment,Software Development,
+CFD,Computation Fluid Dynmaics,Mechanical Engineering,
 CI,Continuous Integration,Software Developement,
 CIA,Confidentiality Integrity Availability,Information Security,known as the triad
+CIDR,Classless Inter-Domain Routing,Computer Networking,
 CIFS,Common Internet File System,Computer Science,
 CIM,Common Information Model,System Administration,
 CMM,Coordinate Measuring Machine,Manufacturing,
@@ -21,9 +24,11 @@ CMS,Cryptographic Message Syntax,Cryptography,
 CMS,Content Management System,Software Development,
 CNC,Computer Numerical Control,Manufacturing,
 COM,Common Object Model,Software Development,windows software
+COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
 CRUD,Create Read Update Delete,Software Development,
+CSA,Cloud Security Alliance,Information Security,organization
 CSIRT,Computer Security Incident Response Team,Information Security,
 CSS,Cascading Style Sheet,Software Development,
 CTI,Cyber Threat Intelligence,Information Security,
@@ -33,7 +38,9 @@ DHCP,Dynamic Host Configuration Protocol,Computer Science,
 DIMM,Dual In-Line Memory Module,Computer Hardware,
 DLP,Data Loss Prevention,Information Security,
 DNS,Domain Name System,Computer Science,
+DOAS,Dedicated Outdoor Air System,Mechanial Engineering,HVAC Equipment; sometimes outdoor <-> outside
 DRY,Don'T Repeat Yourself,Software Development,
+DSLR,Digital Single-Lens Reflex,Photography,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
@@ -50,6 +57,7 @@ GPU,Graphics Processing Unit,Computer Hardware,
 GRE,Generic Routing Encapsulation,Computer Networking,
 GUID,Globally Unique Identifier,Computer Science,
 HDD,Hard Disk Drive,Computer Hardware,see IDE
+HID,Human Interface Device,Computer Hardware,
 HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
 HSM,Hardware Security Module,Computer Hardware,
@@ -57,6 +65,7 @@ HTML,Hypertext Markup Language,Software Development,
 HTTP,Hyper Text Transfer Protocol,Computer Science,
 IAB,Initial Access Broker,Information Security,
 IANA,Internet Assigned Numbers Authority,Computer Science,
+IAQ,Indoor Air Quality,Mechanical Engineering,HVAC Design
 IAT,Import Address Table,Software Development,also used in Remote
 ICMP,Internet Control Message Protocol,Computer Networking,protocol behind the ping command
 IDE,Integrated Device Electronics,Computer Hardware,
@@ -109,17 +118,22 @@ PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
 POP,Post Office Protocol,Computer Science,Email
 PSK,Pre-Shared Key,Cryptography,
+PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 RAM,Random Access Memory,Computer Hardware,
 RBAC,Role Based Access Controls,Information Security,
 RCE, Remote Code Execution,Information Security,
+RDBMS,Relational Database Management System,Computer Science,
 RDP,Remote Desktop Protocol,Computer Science,
 REM,Reverse Engineering Malware,Information Security,
+RLOC,Revolving Line Of Credit,Business,banking and finance
 ROM,Read-Only Memory,Computer Science,
 SAML,Security Assertion Markup Language,Information Security,
 SAN,Storage Area Network,Computer Science,
 SCSI,Small Computer System Interface,Computer Hardware,
 SCTP,Stream Control Transmission Protocol,Computer Networking,
 SIEM,Security Information & Event Management,Information Security,
+SIP,Session Initiation Protocol,Computer Networking,
+SLR,Single-Lens Reflex,Photography,
 SMART,Specific Measurable Attainable Relevant Time-Bound,Business,goal setting
 SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
@@ -141,8 +155,10 @@ UDP,User Datagram Protocol,Computer Networking,
 UPN,User Principal Name,Computer Science,
 URI,Universal Resource Identifier,Computer Science,
 URL,Universal Resource Locator,Computer Science,
+USB,Universal Serial Bus,Computer Hardware,
 UTF,Unicode Transformation Format,Computer Science,
 UUID,Universally Unique Identifier,Computer Science,
+VAV,Variable Air Volume,Mechanical Engineering,HVAC Equipment
 VLAN,Virtual Local Area Network,Computer Networking,
 VPN,Virtual Private Network,Computer Networking,
 VRF,Variable Refrigerant Flow,Mechanical Engineering,HVAC Equipment
@@ -150,19 +166,3 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-csa,cloud security alliance,information security,organization
-hid,human interface device,computer hardware,
-usb,universal serial bus,computer hardware,
-cidr,classless inter-domain routing,computer networking,
-rdbms,relational database management system,computer science,
-rloc,revolving line of credit,business,banking and finance
-doas,dedicated outdoor air system,mechanial engineering,HVAC Equipment; sometimes outdoor <-> outside
-cfd,computation fluid dynmaics,mechanical Engineering,
-ptac,packaged terminal air conditioner,mechanical engineering,HVAC Equipment
-ahu,air-handling unit,mechanical engineering,HVAC Equipment
-vav,variable air volume,mechanical engineering,HVAC Equipment
-iaq,indoor air quality,mechanical engineering,HVAC Design
-slr,single-lens reflex,photography,
-dslr,digital single-lens reflex,photography
-sip,session initiation protocol,computer networking,
-cope,corporate-owned personally enabled,Information Technology,corporate <-> company
