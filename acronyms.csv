@@ -37,7 +37,7 @@ DRY,Don'T Repeat Yourself,Software Development,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
-ERV,Energy Recovery Ventilator,Hvac,
+ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
 FMEA,Failure Modes & Effects Analysis,Engineering,
 FQDN,Fully Qualified Domain Name,Computer Science,see DNS
@@ -145,8 +145,24 @@ UTF,Unicode Transformation Format,Computer Science,
 UUID,Universally Unique Identifier,Computer Science,
 VLAN,Virtual Local Area Network,Computer Networking,
 VPN,Virtual Private Network,Computer Networking,
-VRF,Variable Refrigerant Flow,Hvac,
+VRF,Variable Refrigerant Flow,Mechanical Engineering,HVAC Equipment
 WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+csa,cloud security alliance,information security,organization
+hid,human interface device,computer hardware,
+usb,universal serial bus,computer hardware,
+cidr,classless inter-domain routing,computer networking,
+rdbms,relational database management system,computer science,
+rloc,revolving line of credit,business,banking and finance
+doas,dedicated outdoor air system,mechanial engineering,HVAC Equipment; sometimes outdoor <-> outside
+cfd,computation fluid dynmaics,mechanical Engineering,
+ptac,packaged terminal air conditioner,mechanical engineering,HVAC Equipment
+ahu,air-handling unit,mechanical engineering,HVAC Equipment
+vav,variable air volume,mechanical engineering,HVAC Equipment
+iaq,indoor air quality,mechanical engineering,HVAC Design
+slr,single-lens reflex,photography,
+dslr,digital single-lens reflex,photography
+sip,session initiation protocol,computer networking,
+cope,corporate-owned, personally enabled,Information Technology,corporate <-> company
