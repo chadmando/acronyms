@@ -25,6 +25,7 @@ CMS,Content Management System,Software Development,
 CNC,Computer Numerical Control,Manufacturing,
 COM,Common Object Model,Software Development,windows software
 COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
+CPA,Certified Public Accountant,Business,
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
 CRUD,Create Read Update Delete,Software Development,
@@ -50,6 +51,7 @@ FMEA,Failure Modes & Effects Analysis,Engineering,
 FQDN,Fully Qualified Domain Name,Computer Science,see DNS
 FTE,Full-Time Employee,Business,
 FTP,File Transfer Protocol,Computer Science,
+GAAP,Generally Accepted Accounting Princples,Business,accounting practices
 GCM,Galois Counter Mode,Cryptography,
 GDPR,General Data Protection Regulation,Information Security,
 GPO,Group Policy Object,Microsoft Windows,
@@ -166,5 +168,3 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-gaap,Generally Accepted Accounting Princples,business,accounting practices
-cpa,certified public accountant,business,
