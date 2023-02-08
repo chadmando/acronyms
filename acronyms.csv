@@ -45,6 +45,7 @@ DSLR,Digital Single-Lens Reflex,Photography,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
+ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
 FMEA,Failure Modes & Effects Analysis,Engineering,
@@ -93,6 +94,7 @@ MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
 MFA,Multi-Factor Authenication,Information Security,
+MFT,Managed File Transfer,Information Technology,
 MITM,Man In The Middle,Information Security,
 MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
@@ -119,6 +121,7 @@ PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
 POP,Post Office Protocol,Computer Science,Email
+POS,Point Of Sale,Business,
 PSK,Pre-Shared Key,Cryptography,
 PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 RAM,Random Access Memory,Computer Hardware,
@@ -152,6 +155,7 @@ TLD,Top Level Domain,Computer Science,overseen by IANA
 TLS,Transport Layer Security,Cryptography,
 TPM,Trusted Platform Module,Computer Hardware,
 TTP,Tactics Techniques Procedures,Information Security,
+TUI,Text User Interface,Software Development,sometimes shown as Text-Based
 UCC,Uniform Commercial Code,Business,
 UDP,User Datagram Protocol,Computer Networking,
 UPN,User Principal Name,Computer Science,
@@ -168,7 +172,3 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-pos,Point of sale,business,
-erp,enterprise resource planning,business,software
-mft,managed file transfer,information technology,
-tui,text user interface,software development,sometimes shown as Text-Based
