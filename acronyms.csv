@@ -168,3 +168,7 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+pos,Point of sale,business,
+erp,enterprise resource planning,business,software
+mft,managed file transfer,information technology,
+tui,text user interface,software development,sometimes shown as Text-Based
