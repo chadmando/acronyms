@@ -172,3 +172,12 @@ WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+clr,common language runtime,software development,.NET
+gui,graphical user interface,software development,
+coi,certificate of insurance,business,
+sdk,software development kit,software development,
+acl,access control list,information security,
+json,Javascript Object Notation,software development,serialized data
+xml,Extensible Markup Language,software development,serialized data
+dsl,digital subscriber line,Utilities,
+isp,internet service provider,Utilities,
