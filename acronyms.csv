@@ -1,4 +1,5 @@
 Acronym,Meaning,Context,Notes
+ACL,Access Control List,Information Security,
 ADFS,Active Directory Federation Services,Microsoft Windows Server,
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
@@ -19,10 +20,12 @@ CIA,Confidentiality Integrity Availability,Information Security,known as the tri
 CIDR,Classless Inter-Domain Routing,Computer Networking,
 CIFS,Common Internet File System,Computer Science,
 CIM,Common Information Model,System Administration,
+CLR,Common Language Runtime,Software Development,.NET
 CMM,Coordinate Measuring Machine,Manufacturing,
 CMS,Cryptographic Message Syntax,Cryptography,
 CMS,Content Management System,Software Development,
 CNC,Computer Numerical Control,Manufacturing,
+COI,Certificate Of Insurance,Business,
 COM,Common Object Model,Software Development,windows software
 COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
 CPA,Certified Public Accountant,Business,
@@ -41,6 +44,7 @@ DLP,Data Loss Prevention,Information Security,
 DNS,Domain Name System,Computer Science,
 DOAS,Dedicated Outdoor Air System,Mechanial Engineering,HVAC Equipment; sometimes outdoor <-> outside
 DRY,Don'T Repeat Yourself,Software Development,
+DSL,Digital Subscriber Line,Utilities,
 DSLR,Digital Single-Lens Reflex,Photography,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
@@ -58,6 +62,7 @@ GDPR,General Data Protection Regulation,Information Security,
 GPO,Group Policy Object,Microsoft Windows,
 GPU,Graphics Processing Unit,Computer Hardware,
 GRE,Generic Routing Encapsulation,Computer Networking,
+GUI,Graphical User Interface,Software Development,
 GUID,Globally Unique Identifier,Computer Science,
 HDD,Hard Disk Drive,Computer Hardware,see IDE
 HID,Human Interface Device,Computer Hardware,
@@ -83,6 +88,8 @@ IP,Intellectual Property,Business,
 IP,Internet Protocol,Computer Science,
 IPS,Intrusion Prevention System,Information Security,
 IR,Incident Response,Information Security,
+ISP,Internet Service Provider,Utilities,
+JSON,Javascript Object Notation,Software Development,serialized data
 KBA,Knowledge-Based Authentication,Information Security,
 KDF,Key Derivation Function,Cryptography,
 KPI,Key Performance Indicator,Business,metrics
@@ -136,6 +143,7 @@ SAML,Security Assertion Markup Language,Information Security,
 SAN,Storage Area Network,Computer Science,
 SCSI,Small Computer System Interface,Computer Hardware,
 SCTP,Stream Control Transmission Protocol,Computer Networking,
+SDK,Software Development Kit,Software Development,
 SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
 SLR,Single-Lens Reflex,Photography,
@@ -170,14 +178,6 @@ VPN,Virtual Private Network,Computer Networking,
 VRF,Variable Refrigerant Flow,Mechanical Engineering,HVAC Equipment
 WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
+XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-clr,common language runtime,software development,.NET
-gui,graphical user interface,software development,
-coi,certificate of insurance,business,
-sdk,software development kit,software development,
-acl,access control list,information security,
-json,Javascript Object Notation,software development,serialized data
-xml,Extensible Markup Language,software development,serialized data
-dsl,digital subscriber line,Utilities,
-isp,internet service provider,Utilities,
