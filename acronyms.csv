@@ -11,6 +11,7 @@ AST,Abstract Syntax Tree,Computer Science,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
 BYOD,Bring Your Own Device,Information Technology,hardware policy
+CAM,Computer-Aided Manufacturing,Manufacturing,
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
 CD,Continuous Deployment,Software Development,
@@ -45,6 +46,7 @@ DNS,Domain Name System,Computer Science,
 DOAS,Dedicated Outdoor Air System,Mechanial Engineering,HVAC Equipment; sometimes outdoor <-> outside
 DRY,Don'T Repeat Yourself,Software Development,
 DSL,Digital Subscriber Line,Utilities,
+DSL,Domain Specific Language,Software Development,
 DSLR,Digital Single-Lens Reflex,Photography,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
@@ -59,9 +61,11 @@ FTP,File Transfer Protocol,Computer Science,
 GAAP,Generally Accepted Accounting Princples,Business,accounting practices
 GCM,Galois Counter Mode,Cryptography,
 GDPR,General Data Protection Regulation,Information Security,
+GMAW,Gas Metal Arc Welding,Manufacturing,see also MIG
 GPO,Group Policy Object,Microsoft Windows,
 GPU,Graphics Processing Unit,Computer Hardware,
 GRE,Generic Routing Encapsulation,Computer Networking,
+GTAW,Gas Tungsten Arc Welding,Manufacturing,see TIG
 GUI,Graphical User Interface,Software Development,
 GUID,Globally Unique Identifier,Computer Science,
 HDD,Hard Disk Drive,Computer Hardware,see IDE
@@ -88,6 +92,7 @@ IP,Intellectual Property,Business,
 IP,Internet Protocol,Computer Science,
 IPS,Intrusion Prevention System,Information Security,
 IR,Incident Response,Information Security,
+ISO,International Organization For Standardization,,
 ISP,Internet Service Provider,Utilities,
 JSON,Javascript Object Notation,Software Development,serialized data
 KBA,Knowledge-Based Authentication,Information Security,
@@ -102,6 +107,7 @@ MAC,Mandatory Access Controls,Information Security,
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
 MFA,Multi-Factor Authenication,Information Security,
 MFT,Managed File Transfer,Information Technology,
+MIG,Metal Inert Gas,Manufacturing,see also GMAW
 MITM,Man In The Middle,Information Security,
 MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
@@ -159,11 +165,14 @@ SSH,Secure Shell,Computer Science,
 SSL,Secure Sockets Layer,Cryptography,
 SWOT,Strengths Weaknesses Opportunities Threats,Business,strategic technology
 TCP,Transmission Control Protocol,Computer Networking,
+TIG,Tungsten Inert Gas,Manufacturing,see also GTAW
 TLD,Top Level Domain,Computer Science,overseen by IANA
 TLS,Transport Layer Security,Cryptography,
+TPI,Threads Per Inch,Mechanical Engineering,threaded fasteners
 TPM,Trusted Platform Module,Computer Hardware,
 TTP,Tactics Techniques Procedures,Information Security,
 TUI,Text User Interface,Software Development,sometimes shown as Text-Based
+UART,Universal Asynchronous Receiver-Transmitter,Computer Hardware,
 UCC,Uniform Commercial Code,Business,
 UDP,User Datagram Protocol,Computer Networking,
 UPN,User Principal Name,Computer Science,
@@ -181,12 +190,3 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-iso,international organization for standardization,,
-dsl,domain specific language,software development,
-cam,computer-aided manufacturing,manufacturing,
-uart,universal asynchronous receiver-transmitter,Computer hardware,
-tpi,threads per inch,mechanical engineering,threaded fasteners
-tig,Tungsten Inert Gas,Manufacturing,see also GTAW
-gtaw,gas tungsten arc welding,manufacturing,see TIG
-mig,metal inert gas,manufacturing,see also GMAW
-gmaw,gas metal arc welding,manufacturing,see also MIG
