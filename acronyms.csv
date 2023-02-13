@@ -181,3 +181,12 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+iso,international organization for standardization,,
+dsl,domain specific language,software development,
+cam,computer-aided manufacturing,manufacturing,
+uart,universal asynchronous receiver-transmitter,Computer hardware,
+tpi,threads per inch,mechanical engineering,threaded fasteners
+tig,Tungsten Inert Gas,Manufacturing,see also GTAW
+gtaw,gas tungsten arc welding,manufacturing,see TIG
+mig,metal inert gas,manufacturing,see also GMAW
+gmaw,gas metal arc welding,manufacturing,see also MIG
