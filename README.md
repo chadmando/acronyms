@@ -1,7 +1,7 @@
 # acronyms
  
  A collection of acronyms from business, technology, security, and engineering.
- I am documenting the acronyms that I encounter when working, studying, and researching.
+ I am documenting the acronyms that I encounter while working, studying, and researching.
 
  ## Future Plans
 
