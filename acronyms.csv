@@ -190,3 +190,11 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+rcw,runtime callable wrapper,software development,
+av,anti-virus,information security,
+bod,basis of design,Engineering,
+bom,bill of materials,Engineering,
+cad,computer-aided design,mechanical engineering,
+sls,selective laser sintering,manufacturing,
+lvm,logical volume manager,computer science,
+repl,read evaluate print loop,software development,python console
