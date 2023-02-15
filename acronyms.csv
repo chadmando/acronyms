@@ -8,9 +8,13 @@ APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
 AST,Abstract Syntax Tree,Computer Science,
+AV,Anti-Virus,Information Security,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
+BOD,Basis Of Design,Engineering,
+BOM,Bill Of Materials,Engineering,
 BYOD,Bring Your Own Device,Information Technology,hardware policy
+CAD,Computer-Aided Design,Mechanical Engineering,
 CAM,Computer-Aided Manufacturing,Manufacturing,
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
@@ -101,6 +105,7 @@ KPI,Key Performance Indicator,Business,metrics
 LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
 LRU,Least Recently Used,Computer Science,
+LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
@@ -140,9 +145,11 @@ PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 RAM,Random Access Memory,Computer Hardware,
 RBAC,Role Based Access Controls,Information Security,
 RCE, Remote Code Execution,Information Security,
+RCW,Runtime Callable Wrapper,Software Development,
 RDBMS,Relational Database Management System,Computer Science,
 RDP,Remote Desktop Protocol,Computer Science,
 REM,Reverse Engineering Malware,Information Security,
+REPL,Read Evaluate Print Loop,Software Development,python console
 RLOC,Revolving Line Of Credit,Business,banking and finance
 ROM,Read-Only Memory,Computer Science,
 SAML,Security Assertion Markup Language,Information Security,
@@ -153,6 +160,7 @@ SDK,Software Development Kit,Software Development,
 SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
 SLR,Single-Lens Reflex,Photography,
+SLS,Selective Laser Sintering,Manufacturing,
 SMART,Specific Measurable Attainable Relevant Time-Bound,Business,goal setting
 SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
@@ -190,11 +198,3 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-rcw,runtime callable wrapper,software development,
-av,anti-virus,information security,
-bod,basis of design,Engineering,
-bom,bill of materials,Engineering,
-cad,computer-aided design,mechanical engineering,
-sls,selective laser sintering,manufacturing,
-lvm,logical volume manager,computer science,
-repl,read evaluate print loop,software development,python console
