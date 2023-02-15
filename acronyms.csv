@@ -19,8 +19,8 @@ CAM,Computer-Aided Manufacturing,Manufacturing,
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
 CD,Continuous Deployment,Software Development,
-CFD,Computation Fluid Dynmaics,Mechanical Engineering,
-CI,Continuous Integration,Software Developement,
+CFD,Computational Fluid Dynamics,Mechanical Engineering,
+CI,Continuous Integration,Software Development,
 CIA,Confidentiality Integrity Availability,Information Security,known as the triad
 CIDR,Classless Inter-Domain Routing,Computer Networking,
 CIFS,Common Internet File System,Computer Science,
@@ -47,7 +47,7 @@ DHCP,Dynamic Host Configuration Protocol,Computer Science,
 DIMM,Dual In-Line Memory Module,Computer Hardware,
 DLP,Data Loss Prevention,Information Security,
 DNS,Domain Name System,Computer Science,
-DOAS,Dedicated Outdoor Air System,Mechanial Engineering,HVAC Equipment; sometimes outdoor <-> outside
+DOAS,Dedicated Outdoor Air System,Mechanical Engineering,HVAC Equipment; sometimes outdoor <-> outside
 DRY,Don'T Repeat Yourself,Software Development,
 DSL,Digital Subscriber Line,Utilities,
 DSL,Domain Specific Language,Software Development,
@@ -62,7 +62,7 @@ FMEA,Failure Modes & Effects Analysis,Engineering,
 FQDN,Fully Qualified Domain Name,Computer Science,see DNS
 FTE,Full-Time Employee,Business,
 FTP,File Transfer Protocol,Computer Science,
-GAAP,Generally Accepted Accounting Princples,Business,accounting practices
+GAAP,Generally Accepted Accounting Principles,Business,accounting practices
 GCM,Galois Counter Mode,Cryptography,
 GDPR,General Data Protection Regulation,Information Security,
 GMAW,Gas Metal Arc Welding,Manufacturing,see also MIG
@@ -110,7 +110,7 @@ MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
-MFA,Multi-Factor Authenication,Information Security,
+MFA,Multi-Factor Authentication,Information Security,
 MFT,Managed File Transfer,Information Technology,
 MIG,Metal Inert Gas,Manufacturing,see also GMAW
 MITM,Man In The Middle,Information Security,
