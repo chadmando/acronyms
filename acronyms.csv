@@ -77,6 +77,8 @@ HID,Human Interface Device,Computer Hardware,
 HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
 HSM,Hardware Security Module,Computer Hardware,
+HSS,Hollow Structural Section,Engineering,
+HSS,High-Speed Steel,Manufacturing,cutting tools
 HTML,Hypertext Markup Language,Software Development,
 HTTP,Hyper Text Transfer Protocol,Computer Science,
 IAB,Initial Access Broker,Information Security,
@@ -138,6 +140,7 @@ PFS,Perfect Forward Secrecy,Cryptography,
 PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
+PLR,Private Letter Ruling,Business,issued by Internal Revenue Service
 POP,Post Office Protocol,Computer Science,Email
 POS,Point Of Sale,Business,
 PSK,Pre-Shared Key,Cryptography,
@@ -198,6 +201,3 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-PLR,Private Letter Ruling,Business,issued by Internal Revenue Service
-hss,hollow structural section,engineering,
-hss,high-speed steel,manufacturing,cutting tools
