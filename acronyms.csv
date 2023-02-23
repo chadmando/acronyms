@@ -8,6 +8,7 @@ APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
 AST,Abstract Syntax Tree,Computer Science,
+ASTM,American Society For Testing And Materials,Mechanical Engineering,
 AV,Anti-Virus,Information Security,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
@@ -36,11 +37,14 @@ COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> com
 CPA,Certified Public Accountant,Business,
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
+CRS,Cold Rolled Steel,Mechanical Engineering,
 CRUD,Create Read Update Delete,Software Development,
 CSA,Cloud Security Alliance,Information Security,organization
 CSIRT,Computer Security Incident Response Team,Information Security,
 CSS,Cascading Style Sheet,Software Development,
+CTA,Call To Action,Business,
 CTI,Cyber Threat Intelligence,Information Security,
+CUPS,Common Unix Printing System,Computer Science,
 DES,Data Encryption Standard,Cryptography,
 DFS,Distributed File System,Computer Science,
 DHCP,Dynamic Host Configuration Protocol,Computer Science,
@@ -58,6 +62,7 @@ EDR,Endpoint Detection And Response,Information Security,
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
+FFT,Fast Fourier Transform,Mathamatics,
 FMEA,Failure Modes & Effects Analysis,Engineering,
 FQDN,Fully Qualified Domain Name,Computer Science,see DNS
 FTE,Full-Time Employee,Business,
@@ -76,6 +81,7 @@ HDD,Hard Disk Drive,Computer Hardware,see IDE
 HID,Human Interface Device,Computer Hardware,
 HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
+HRS,Hot Rolled Steel,Mechanical Engineering,
 HSM,Hardware Security Module,Computer Hardware,
 HSS,Hollow Structural Section,Engineering,
 HSS,High-Speed Steel,Manufacturing,cutting tools
@@ -121,12 +127,14 @@ MRM,Messaging Records Management,System Administration,
 MRU,Most Recently Used,Computer Science,
 MTTR,Mean Time To Repair,Business,can also be used in incident response as a metric
 NAS,Network Attached Storage,Computer Hardware,
+NFT,Non-Fungible Token,Cryptography,
 NIC,Network Interface Card,Computer Hardware,
 NIST,National Institute Of Standards And Technology,Information Security,
 NTP,Network Time Protocol,Computer Science,
 NURBS,Non-Uniform Rational B-Splines,Engineering,
 OCR,Object Character Recognition,Software Development,
 OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
+OEM,Original Equipment Manufacturer,Business,
 OKR,Objectives & Key Results,Business,
 ORM,Object-Relational Mapping,Software Development,
 OS,Operating System,Computer Science,
@@ -141,6 +149,7 @@ PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
 PLR,Private Letter Ruling,Business,issued by Internal Revenue Service
+PNF,Propriocaptive Neuromuscular Facilitation,Physical Fitness,
 POP,Post Office Protocol,Computer Science,Email
 POS,Point Of Sale,Business,
 PSK,Pre-Shared Key,Cryptography,
@@ -160,6 +169,7 @@ SAN,Storage Area Network,Computer Science,
 SCSI,Small Computer System Interface,Computer Hardware,
 SCTP,Stream Control Transmission Protocol,Computer Networking,
 SDK,Software Development Kit,Software Development,
+SHCS,Socket Head Cap Screw,Mechanical Engineering,Tool Design
 SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
 SLR,Single-Lens Reflex,Photography,
@@ -201,13 +211,3 @@ WAN,Wide Area Network,Computer Networking,
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-shcs,socket head cap screw,mechanical engineering,Tool Design
-oem,Original Equipment Manufacturer,business,
-crs,cold rolled steel,mechanical engineering,
-hrs,hot rolled steel,mechanical engineering,
-cta,call to action,business,
-pnf,propriocaptive neuromuscular facilitation,physical fitness,
-astm,american society for testing and materials,mechanical engineering,
-cups,common unix printing system,computer science,
-fft,fast fourier transform,mathamatics,
-nft,non-fungible token,cryptography,
