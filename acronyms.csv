@@ -4,6 +4,7 @@ ADFS,Active Directory Federation Services,Microsoft Windows Server,
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
 AHU,Air-Handling Unit,Mechanical Engineering,HVAC Equipment
+AISI,American Iron And Steel Institute,Mechanical Engineering,organization
 APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
@@ -63,6 +64,7 @@ ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
 FFT,Fast Fourier Transform,Mathamatics,
+FIFO,First-In First-Out,Business,Inventory framework
 FMEA,Failure Modes & Effects Analysis,Engineering,
 FQDN,Fully Qualified Domain Name,Computer Science,see DNS
 FTE,Full-Time Employee,Business,
@@ -104,6 +106,7 @@ IP,Intellectual Property,Business,
 IP,Internet Protocol,Computer Science,
 IPS,Intrusion Prevention System,Information Security,
 IR,Incident Response,Information Security,
+IRR,Internal Rate Of Return,Business,
 ISO,International Organization For Standardization,,
 ISP,Internet Service Provider,Utilities,
 JSON,Javascript Object Notation,Software Development,serialized data
@@ -112,6 +115,7 @@ KDF,Key Derivation Function,Cryptography,
 KPI,Key Performance Indicator,Business,metrics
 LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
+LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as an inventory framework
 LRU,Least Recently Used,Computer Science,
 LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
@@ -163,6 +167,7 @@ RDP,Remote Desktop Protocol,Computer Science,
 REM,Reverse Engineering Malware,Information Security,
 REPL,Read Evaluate Print Loop,Software Development,python console
 RLOC,Revolving Line Of Credit,Business,banking and finance
+ROI,Return On Investment,Business,
 ROM,Read-Only Memory,Computer Science,
 SAML,Security Assertion Markup Language,Information Security,
 SAN,Storage Area Network,Computer Science,
@@ -174,6 +179,7 @@ SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
 SLR,Single-Lens Reflex,Photography,
 SLS,Selective Laser Sintering,Manufacturing,
+SLS,Selective Laser Sintering,Manufacturing,Rapid Prototyping 3D Printing
 SMART,Specific Measurable Attainable Relevant Time-Bound,Business,goal setting
 SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
@@ -212,9 +218,3 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as an inventory framework
-FIFO,First-In First-Out,Business,Inventory framework
-SLS,Selective Laser Sintering,Manufacturing,Rapid Prototyping 3D Printing
-AISI,American Iron and Steel Institute,Mechanical Engineering,organization
-IRR,Internal Rate of Return,Business,
-ROI,Return On Investment,Business,
