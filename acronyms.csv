@@ -212,3 +212,9 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+LIFO,Last-In First-Out,Computer Science,describes the stack, also applies as an inventory framework
+FIFO,First-In First-Out,Business,Inventory framework
+SLS,Selective Laser Sintering,Manufacturing,Rapid Prototyping 3D Printing
+AISI,American Iron and Steel Institute,Mechanical Engineering,organization
+IRR,Internal Rate of Return,Business,
+ROI,Return On Investment,Business,
