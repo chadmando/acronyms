@@ -186,6 +186,7 @@ SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
 SMTP,Simple Mail Transfer Protocol,Computer Science,e-mail
 SNMP,Simple Network Management Protocol,Computer Science,
+SOFR,Secured Overnight Financing Rate,Business,bank borrowing rate for many RLOCs
 SPA,Single-Page Application,Software Development,
 SQL,Structured Query Language,Computer Science,
 SSD,Solid State Drive,Computer Hardware,
@@ -219,5 +220,3 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-SOFR,Secured Overnight Financing Rate,business,bank borrowing rate for many RLOCs
-
