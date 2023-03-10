@@ -38,6 +38,7 @@ COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> com
 CPA,Certified Public Accountant,Business,
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
+CRM,Customer Relationship Management,Business,sales tools
 CRS,Cold Rolled Steel,Mechanical Engineering,
 CRUD,Create Read Update Delete,Software Development,
 CSA,Cloud Security Alliance,Information Security,organization
@@ -60,6 +61,7 @@ DSLR,Digital Single-Lens Reflex,Photography,
 ECDH,Elliptic Curve Diffie Hellman,Cryptography,
 EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
+EER,Energy Efficiency Ratio,Mechanical Engineering,HVAC Equipment
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
@@ -98,6 +100,7 @@ IDE,Integrated Device Electronics,Computer Hardware,
 IDE,Interactive Development Environment,Software Development,e.g. VSCode or Pycharm
 IDEA,International Data Encryption Algorithm,Cryptography,
 IDS,Intrusion Detection System,Information Security,
+IEER,Integrated Energy Efficiency Ratio,Mechanical Engineering,HVAC Equipment
 IETF,Internet Engineering Task Force,Computer Science,
 IKE,Internet Key Exchange,Cryptography,
 IMAP,Internet Message Access Protocol,Computer Science,
@@ -193,6 +196,7 @@ SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
 SSL,Secure Sockets Layer,Cryptography,
 SWOT,Strengths Weaknesses Opportunities Threats,Business,strategic technology
+TCO,Total Cost Of Ownership,Business,
 TCP,Transmission Control Protocol,Computer Networking,
 TIG,Tungsten Inert Gas,Manufacturing,see also GTAW
 TLD,Top Level Domain,Computer Science,overseen by IANA
@@ -220,7 +224,3 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-ieer,integrated energy efficiency ratio,Mechanical Engineering,HVAC Equipment
-tco,total cost of ownership,Business,
-crm,customer relationship management,business,sales tools
-eer,energy efficiency ratio,Mechanical Engineering,HVAC Equipment
