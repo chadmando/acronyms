@@ -224,3 +224,9 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
+hmo,health maintenance organization,business,health insurance
+ppo,preferred provider organization,business,health insurance
+rfq,request for quotation,business,
+rfp,request for proposal,business,
+rfc,request for comments,,
+iom,installation operation and maintenance,business,equipment documentation
