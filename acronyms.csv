@@ -85,6 +85,7 @@ HDD,Hard Disk Drive,Computer Hardware,see IDE
 HID,Human Interface Device,Computer Hardware,
 HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
+HMO,Health Maintenance Organization,Business,health insurance
 HRS,Hot Rolled Steel,Mechanical Engineering,
 HSM,Hardware Security Module,Computer Hardware,
 HSS,Hollow Structural Section,Engineering,
@@ -105,6 +106,7 @@ IETF,Internet Engineering Task Force,Computer Science,
 IKE,Internet Key Exchange,Cryptography,
 IMAP,Internet Message Access Protocol,Computer Science,
 IOC,Indicators Of Compromise,Information Security,
+IOM,Installation Operation And Maintenance,Business,equipment documentation
 IP,Intellectual Property,Business,
 IP,Internet Protocol,Computer Science,
 IPS,Intrusion Prevention System,Information Security,
@@ -160,6 +162,7 @@ PLR,Private Letter Ruling,Business,issued by Internal Revenue Service
 PNF,Propriocaptive Neuromuscular Facilitation,Physical Fitness,
 POP,Post Office Protocol,Computer Science,Email
 POS,Point Of Sale,Business,
+PPO,Preferred Provider Organization,Business,health insurance
 PSK,Pre-Shared Key,Cryptography,
 PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 RAM,Random Access Memory,Computer Hardware,
@@ -170,6 +173,9 @@ RDBMS,Relational Database Management System,Computer Science,
 RDP,Remote Desktop Protocol,Computer Science,
 REM,Reverse Engineering Malware,Information Security,
 REPL,Read Evaluate Print Loop,Software Development,python console
+RFC,Request For Comments,,
+RFP,Request For Proposal,Business,
+RFQ,Request For Quotation,Business,
 RLOC,Revolving Line Of Credit,Business,banking and finance
 ROI,Return On Investment,Business,
 ROM,Read-Only Memory,Computer Science,
@@ -224,9 +230,3 @@ WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 ZFS,Zettabyte File System,Computer Science,
-hmo,health maintenance organization,business,health insurance
-ppo,preferred provider organization,business,health insurance
-rfq,request for quotation,business,
-rfp,request for proposal,business,
-rfc,request for comments,,
-iom,installation operation and maintenance,business,equipment documentation
