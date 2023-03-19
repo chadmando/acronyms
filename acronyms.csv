@@ -189,6 +189,7 @@ SDK,Software Development Kit,Software Development,
 SHCS,Socket Head Cap Screw,Mechanical Engineering,Tool Design
 SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
+SLA,Service Level Agreement,Business,
 SLR,Single-Lens Reflex,Photography,
 SLS,Selective Laser Sintering,Manufacturing,
 SLS,Selective Laser Sintering,Manufacturing,Rapid Prototyping 3D Printing
@@ -231,6 +232,5 @@ WAN,Wide Area Network,Computer Networking,
 WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
 XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
+YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-yara,yet another ridiculous acronym,Information Security,sometimes the R is Recursive
-sla,service level agreement,business,
