@@ -128,6 +128,7 @@ MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
+MERV,Minimum Efficiency Reported Value,Mechanical Engineering,HVAC Equipment
 MFA,Multi-Factor Authentication,Information Security,
 MFT,Managed File Transfer,Information Technology,
 MIG,Metal Inert Gas,Manufacturing,see also GMAW
@@ -234,4 +235,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-merv,Minimum Efficiency Reported Value,Mechanical Engineering,HVAC Equipment
