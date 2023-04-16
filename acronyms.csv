@@ -35,6 +35,7 @@ CNC,Computer Numerical Control,Manufacturing,
 COI,Certificate Of Insurance,Business,
 COM,Common Object Model,Software Development,windows software
 COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
+COPQ,Cost Of Poor Quality,Business,
 CPA,Certified Public Accountant,Business,
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
@@ -52,7 +53,9 @@ DES,Data Encryption Standard,Cryptography,
 DFS,Distributed File System,Computer Science,
 DHCP,Dynamic Host Configuration Protocol,Computer Science,
 DIMM,Dual In-Line Memory Module,Computer Hardware,
+DKIM,Domainkeys Identified Mail,Computer Science,Email
 DLP,Data Loss Prevention,Information Security,
+DMARC,Domain-Based Message Authentication Reporting & Comformance,Computer Science,Email
 DNS,Domain Name System,Computer Science,
 DOAS,Dedicated Outdoor Air System,Mechanical Engineering,HVAC Equipment; sometimes outdoor <-> outside
 DRY,Don'T Repeat Yourself,Software Development,
@@ -75,6 +78,7 @@ FTP,File Transfer Protocol,Computer Science,
 GAAP,Generally Accepted Accounting Principles,Business,accounting practices
 GCM,Galois Counter Mode,Cryptography,
 GDPR,General Data Protection Regulation,Information Security,
+GLBA,Gramm Leach Bliley Act,Information Security,financial sector privacy Regulation
 GMAW,Gas Metal Arc Welding,Manufacturing,see also MIG
 GPO,Group Policy Object,Microsoft Windows,
 GPU,Graphics Processing Unit,Computer Hardware,
@@ -155,9 +159,11 @@ OTP,One-Time Pad,Cryptography,
 PAM,Privileged Access Management,Information Security,
 PBGC,Pension Benefit Guaranty Corporation,Business,Government protection for pension plans
 PCI,Payment Card Industry,Business,also used in information security due to compliance
+PDCA,Plan Do Check Act,Business,improvement tools
 PE,Portable Executable,Computer Science,windows based OS
 PESTEL,Political Economic Social Technological Environmental Legal, Business, strategic
 PFS,Perfect Forward Secrecy,Cryptography,
+PII,Personally Identifiable Information,Information Security,privacy and compliance
 PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
@@ -201,6 +207,7 @@ SMTP,Simple Mail Transfer Protocol,Computer Science,e-mail
 SNMP,Simple Network Management Protocol,Computer Science,
 SOFR,Secured Overnight Financing Rate,Business,bank borrowing rate for many RLOCs
 SPA,Single-Page Application,Software Development,
+SPF,Sender Policy Framework,Computer Science,Email
 SQL,Structured Query Language,Computer Science,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
@@ -235,10 +242,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-SPF,sender policy framework,Computer Science,Email
-DMARC,Domain-based Message Authentication Reporting & Comformance,Computer Science,Email
-COPQ,cost of poor quality,business,
-GLBA,Gramm Leach Bliley Act,Information security,financial sector privacy Regulation
-PDCA,Plan Do Check Act,business,improvement tools
-DKIM,DomainKeys Identified Mail,computer science,Email
-PII,Personally Identifiable Information,Information Security,privacy and compliance
