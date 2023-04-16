@@ -235,3 +235,10 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
+SPF,sender policy framework,Computer Science,Email
+DMARC,Domain-based Message Authentication Reporting & Comformance,Computer Science,Email
+COPQ,cost of poor quality,business,
+GLBA,Gramm Leach Bliley Act,Information security,financial sector privacy Regulation
+PDCA,Plan Do Check Act,business,improvement tools
+DKIM,DomainKeys Identified Mail,computer science,Email
+PII,Personally Identifiable Information,Information Security,privacy and compliance
