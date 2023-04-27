@@ -148,6 +148,7 @@ NIC,Network Interface Card,Computer Hardware,
 NIST,National Institute Of Standards And Technology,Information Security,
 NTP,Network Time Protocol,Computer Science,
 NURBS,Non-Uniform Rational B-Splines,Engineering,
+OAEP, Optimal Asymmetric Encryption Padding,Cryptography,
 OCR,Object Character Recognition,Software Development,
 OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
 OEM,Original Equipment Manufacturer,Business,
@@ -172,6 +173,7 @@ PNF,Propriocaptive Neuromuscular Facilitation,Physical Fitness,
 POP,Post Office Protocol,Computer Science,Email
 POS,Point Of Sale,Business,
 PPO,Preferred Provider Organization,Business,health insurance
+PRNG,Pseudorandom Number Generator,Cryptography,
 PSK,Pre-Shared Key,Cryptography,
 PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 QUIC,Quick Udp Internet Connection,Cryptography,TLS using UDP converted 
@@ -221,6 +223,7 @@ TLD,Top Level Domain,Computer Science,overseen by IANA
 TLS,Transport Layer Security,Cryptography,
 TPI,Threads Per Inch,Mechanical Engineering,threaded fasteners
 TPM,Trusted Platform Module,Computer Hardware,
+TRNG,True Random Number Generator,Cryptography,
 TTP,Tactics Techniques Procedures,Information Security,
 TUI,Text User Interface,Software Development,sometimes shown as Text-Based
 UART,Universal Asynchronous Receiver-Transmitter,Computer Hardware,
@@ -236,6 +239,7 @@ VAV,Variable Air Volume,Mechanical Engineering,HVAC Equipment
 VLAN,Virtual Local Area Network,Computer Networking,
 VPN,Virtual Private Network,Computer Networking,
 VRF,Variable Refrigerant Flow,Mechanical Engineering,HVAC Equipment
+VRF,Verifiable Random Function,Cryptography,
 WAF,Web Application Firewall,Information Security,
 WAN,Wide Area Network,Computer Networking,
 WSHP,Water Source Heat Pump,Mechanical Engineering,HVAC Equipment
@@ -243,7 +247,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-oaep, Optimal Asymmetric Encryption Padding,Cryptography,
-trng,true random number generator,Cryptography,
-prng,pseudorandom number generator,Cryptography,
-vrf,verifiable random function,Cryptography,
