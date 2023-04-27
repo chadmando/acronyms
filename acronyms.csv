@@ -243,3 +243,7 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
+oaep, Optimal Asymmetric Encryption Padding,Cryptography,
+trng,true random number generator,Cryptography,
+prng,pseudorandom number generator,Cryptography,
+vrf,verifiable random function,Cryptography,
