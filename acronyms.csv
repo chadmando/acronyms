@@ -21,6 +21,7 @@ CAD,Computer-Aided Design,Mechanical Engineering,
 CAM,Computer-Aided Manufacturing,Manufacturing,
 CBA,Collective Bargaining Agreement,Business,union contract
 CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor union
+CCIP,Contractor Controlled Insurance Program,Business,Construction site insurance
 CD,Continuous Deployment,Software Development,
 CFD,Computational Fluid Dynamics,Mechanical Engineering,
 CI,Continuous Integration,Software Development,
@@ -152,6 +153,7 @@ NIST,National Institute Of Standards And Technology,Information Security,
 NTP,Network Time Protocol,Computer Science,
 NURBS,Non-Uniform Rational B-Splines,Engineering,
 OAEP, Optimal Asymmetric Encryption Padding,Cryptography,
+OCIP,Owner Controlled Insurance Program,Business,Construction site insurance
 OCR,Object Character Recognition,Software Development,
 OCSP,Online Certificate Status Protocol,Cryptography,web query for cert Revocation
 OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
@@ -251,6 +253,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ocip,owner controlled insurance program,business,Construction site insurance
-ccip,contractor controlled insurance program,business,Construction site insurance
-
