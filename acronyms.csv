@@ -159,6 +159,7 @@ OCSP,Online Certificate Status Protocol,Cryptography,web query for cert Revocati
 OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
 OEM,Original Equipment Manufacturer,Business,
 OKR,Objectives & Key Results,Business,
+OOBE,Out Of Box Experience,Computer Science, Windows OS setup
 ORM,Object-Relational Mapping,Software Development,
 OS,Operating System,Computer Science,
 OSI,Open Systems Interconnection,Computer Networking,
@@ -253,4 +254,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-oobe,out of box experience,Computer Science, Windows OS setup
