@@ -242,6 +242,7 @@ URL,Universal Resource Locator,Computer Science,
 USB,Universal Serial Bus,Computer Hardware,
 UTF,Unicode Transformation Format,Computer Science,
 UUID,Universally Unique Identifier,Computer Science,
+VAT,Value Added Tax,Business,incremental indirect tax on goods and services
 VAV,Variable Air Volume,Mechanical Engineering,HVAC Equipment
 VLAN,Virtual Local Area Network,Computer Networking,
 VPN,Virtual Private Network,Computer Networking,
@@ -254,4 +255,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-vat,Value Added Tax,Business,incremental indirect tax on goods and services
