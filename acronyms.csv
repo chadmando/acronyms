@@ -9,6 +9,7 @@ AISI,American Iron And Steel Institute,Mechanical Engineering,organization
 APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ASCII,American Standard Code For Information Interchange,Computer Science,
+ASR,Attack Surface Reduction,Information Security,First occasion was Microsoft Defender for Endpoint
 AST,Abstract Syntax Tree,Computer Science,
 ASTM,American Society For Testing And Materials,Mechanical Engineering,
 AV,Anti-Virus,Information Security,
@@ -93,6 +94,7 @@ GUID,Globally Unique Identifier,Computer Science,
 HDD,Hard Disk Drive,Computer Hardware,see IDE
 HID,Human Interface Device,Computer Hardware,
 HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
+HIPS,Host Intrusion Prevention System,Information Security,
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
 HMO,Health Maintenance Organization,Business,health insurance
 HRS,Hot Rolled Steel,Mechanical Engineering,
@@ -141,6 +143,7 @@ MFA,Multi-Factor Authentication,Information Security,
 MFT,Managed File Transfer,Information Technology,
 MIG,Metal Inert Gas,Manufacturing,see also GMAW
 MITM,Man In The Middle,Information Security,
+MOTW,Mark Of The Web,Computer Science,Alternate Data Stream added to files downloaded from the internet
 MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
 MRU,Most Recently Used,Computer Science,
@@ -255,6 +258,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-HIPS,Host Intrusion Prevention System,Information Security,
-ASR,Attack Surface Reduction,Information Security,First occasion was Microsoft Defender for Endpoint
-MOTW,Mark Of The Web,computer science,Alternate Data Stream added to files downloaded from the internet
