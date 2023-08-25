@@ -71,6 +71,7 @@ EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
 EER,Energy Efficiency Ratio,Mechanical Engineering,HVAC Equipment
 EFT,Electronic Funds Transfer,Business,financial transactions
+EMR,Experience Modification Rating,Business,a consideration for WC insurance
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
@@ -258,4 +259,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-EMR,Experience Modification Rating,Business,a consideration for WC insurance
