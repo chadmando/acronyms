@@ -223,6 +223,7 @@ SOFR,Secured Overnight Financing Rate,Business,bank borrowing rate for many RLOC
 SPA,Single-Page Application,Software Development,
 SPF,Sender Policy Framework,Computer Science,Email
 SQL,Structured Query Language,Computer Science,
+SRP,Single-Responsibility Principle,Software Development,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
 SSL,Secure Sockets Layer,Cryptography,
@@ -260,4 +261,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-srp,Single-Responsibility Principle,Software Development,
