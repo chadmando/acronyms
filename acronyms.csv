@@ -226,6 +226,7 @@ SQL,Structured Query Language,Computer Science,
 SRP,Single-Responsibility Principle,Software Development,
 SSD,Solid State Drive,Computer Hardware,
 SSH,Secure Shell,Computer Science,
+SSID,Service Set Identifier,Computer Networking,Wireless Networks
 SSL,Secure Sockets Layer,Cryptography,
 SWOT,Strengths Weaknesses Opportunities Threats,Business,strategic technology
 TCO,Total Cost Of Ownership,Business,
@@ -261,4 +262,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-SSID,Service Set Identifier,Computer Networking,Wireless Networks
