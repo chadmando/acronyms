@@ -55,6 +55,7 @@ CUPS,Common Unix Printing System,Computer Science,
 DCOM,Distributed Component Object Model,Computer Science,
 DER, Distinguished Encoding Rules,Cryptography,pem File
 DES,Data Encryption Standard,Cryptography,
+DFIR,Digital Forensics And Incident Response,Information Security,
 DFS,Distributed File System,Computer Science,
 DHCP,Dynamic Host Configuration Protocol,Computer Science,
 DIMM,Dual In-Line Memory Module,Computer Hardware,
@@ -72,7 +73,9 @@ EDM,Electrical Discharge Machining,Manufacturing,
 EDR,Endpoint Detection And Response,Information Security,
 EER,Energy Efficiency Ratio,Mechanical Engineering,HVAC Equipment
 EFT,Electronic Funds Transfer,Business,financial transactions
+EIN,Employer Identification Number,Business,
 EMR,Experience Modification Rating,Business,a consideration for WC insurance
+EOL,End Of Life,Software Development,no additional features or patches
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 FEA,Finite Element Analysis,Engineering,
@@ -262,6 +265,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-EOL,End Of Life,Software Development,no additional features or patches
-dfir,Digital Forensics and Incident Response,Information Security,
-EIN,Employer Identification Number,Business,
