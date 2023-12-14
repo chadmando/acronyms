@@ -262,3 +262,6 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
+EOL,End Of Life,Software Development,no additional features or patches
+dfir,Digital Forensics and Incident Response,Information Security,
+EIN,Employer Identification Number,Business,
