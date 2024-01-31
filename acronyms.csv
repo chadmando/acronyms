@@ -27,6 +27,7 @@ CCIP,Contractor Controlled Insurance Program,Business,Construction site insuranc
 CCPA,California Consumer Privacy Act,Information Security,
 CD,Continuous Deployment,Software Development,
 CFD,Computational Fluid Dynamics,Mechanical Engineering,
+CFTC,Commodity Futures Trading Commission,Financial,regulates U.S. derivatives markets
 CI,Continuous Integration,Software Development,
 CIA,Confidentiality Integrity Availability,Information Security,known as the triad
 CIDR,Classless Inter-Domain Routing,Computer Networking,
@@ -267,5 +268,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-CFTC,Commodity Futures Trading Commission,Financial,regulates U.S. derivatives markets
-
