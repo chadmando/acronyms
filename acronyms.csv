@@ -132,6 +132,7 @@ IR,Incident Response,Information Security,
 IRR,Internal Rate Of Return,Business,
 ISO,International Organization For Standardization,,
 ISP,Internet Service Provider,Utilities,
+ITB,Invitation To Bid,Business,Construction
 JSON,Javascript Object Notation,Software Development,serialized data
 KBA,Knowledge-Based Authentication,Information Security,
 KDF,Key Derivation Function,Cryptography,
@@ -268,4 +269,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ITB,Invitation To Bid,Business,Construction
