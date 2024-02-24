@@ -37,11 +37,13 @@ CLR,Common Language Runtime,Software Development,.NET
 CMM,Coordinate Measuring Machine,Manufacturing,
 CMS,Cryptographic Message Syntax,Cryptography,
 CMS,Content Management System,Software Development,
+CNA,Cve Numbering Authority,Information Security,Vulnerability Management
 CNC,Computer Numerical Control,Manufacturing,
 COI,Certificate Of Insurance,Business,
 COM,Common Object Model,Software Development,windows software
 COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
 COPQ,Cost Of Poor Quality,Business,
+COTS,Commercial Off The Shelf,Information Security,Software Assets
 CPA,Certified Public Accountant,Business,
 CPU,Central Processing Unit,Computer Hardware,
 CRL,Certificate Revocation List,Cryptography,
@@ -54,6 +56,7 @@ CSS,Cascading Style Sheet,Software Development,
 CTA,Call To Action,Business,
 CTI,Cyber Threat Intelligence,Information Security,
 CUPS,Common Unix Printing System,Computer Science,
+CVE,Common Vulnerabilities & Exposures,Information Security,Vulnerability Management
 DCOM,Distributed Component Object Model,Computer Science,
 DER, Distinguished Encoding Rules,Cryptography,pem File
 DES,Data Encryption Standard,Cryptography,
@@ -269,6 +272,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-COTS,Commercial Off The Shelf,Information Security,Software Assets
-CNA,CVE Numbering Authority,Information Security,Vulnerability Management
-CVE,Common Vulnerabilities & Exposures,Information Security,Vulnerability Management
