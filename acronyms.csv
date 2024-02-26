@@ -8,6 +8,7 @@ AHU,Air-Handling Unit,Mechanical Engineering,HVAC Equipment
 AISI,American Iron And Steel Institute,Mechanical Engineering,organization
 APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
+ARR,Annual Recurring Revenue,Business,
 ASCII,American Standard Code For Information Interchange,Computer Science,
 ASR,Attack Surface Reduction,Information Security,First occasion was Microsoft Defender for Endpoint
 AST,Abstract Syntax Tree,Computer Science,
@@ -273,5 +274,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ARR,Annual Recurring Revenue,Business,
-
