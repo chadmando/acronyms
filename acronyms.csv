@@ -146,6 +146,7 @@ KPI,Key Performance Indicator,Business,metrics
 LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
 LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as an inventory framework
+LLM,Large Language Model,Computer Science,Artificial Intelligence
 LRU,Least Recently Used,Computer Science,
 LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
@@ -167,6 +168,7 @@ NAT,Network Address Transation,Computer Networking,
 NFT,Non-Fungible Token,Cryptography,
 NIC,Network Interface Card,Computer Hardware,
 NIST,National Institute Of Standards And Technology,Information Security,
+NORA,No One Right Answer,Computer Science,LLMs and Artificial Intelligence
 NTP,Network Time Protocol,Computer Science,
 NURBS,Non-Uniform Rational B-Splines,Engineering,
 OAEP, Optimal Asymmetric Encryption Padding,Cryptography,
@@ -275,5 +277,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-NORA,No One Right Answer,Computer Science,LLMs and Artificial Intelligence
-LLM,Large Language Model,Computer Science,Artificial Intelligence
