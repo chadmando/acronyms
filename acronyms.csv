@@ -175,6 +175,7 @@ OAEP, Optimal Asymmetric Encryption Padding,Cryptography,
 OCIP,Owner Controlled Insurance Program,Business,Construction site insurance
 OCR,Object Character Recognition,Software Development,
 OCSP,Online Certificate Status Protocol,Cryptography,web query for cert Revocation
+OCSP,Online Certificate Status Protocol,Computer Networking, RFC 6960 alternative to CRL
 OEE,Overall Equipment Effectiveness,Business,manufacturing metric used in kanban
 OEM,Original Equipment Manufacturer,Business,
 OKR,Objectives & Key Results,Business,
@@ -277,4 +278,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-OCSP,Online Certificate Status Protocol,Computer Networking, RFC 6960 alternative to CRL
