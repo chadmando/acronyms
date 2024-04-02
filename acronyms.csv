@@ -28,6 +28,7 @@ CBU,Collective Bargaining Unit,Business,a group with mutual interest e.g. labor 
 CCIP,Contractor Controlled Insurance Program,Business,Construction site insurance
 CCPA,California Consumer Privacy Act,Information Security,
 CD,Continuous Deployment,Software Development,
+CDU,Cumulative Distribution Function,Statistics,
 CFD,Computational Fluid Dynamics,Mechanical Engineering,
 CFTC,Commodity Futures Trading Commission,Financial,regulates U.S. derivatives markets
 CI,Continuous Integration,Software Development,
@@ -153,6 +154,7 @@ LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
+MAU,Make-Up Air Unit,Mechanical Engineering,HVAC Equipment
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
 MERV,Minimum Efficiency Reported Value,Mechanical Engineering,HVAC Equipment
 MFA,Multi-Factor Authentication,Information Security,
@@ -279,5 +281,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-MAU,Make-Up Air Unit,Mechanical Engineering,HVAC Equipment
-CDU,Cumulative Distribution Function,Statistics,
