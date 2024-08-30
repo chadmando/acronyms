@@ -155,7 +155,7 @@ KPI,Key Performance Indicator,Business,metrics
 KYC,Know Your Customer,Business,Compliance
 LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
-LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as an inventory framework
+LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as a physical inventory framework
 LLM,Large Language Model,Computer Science,Artificial Intelligence
 LRU,Least Recently Used,Computer Science,
 LVM,Logical Volume Manager,Computer Science,
