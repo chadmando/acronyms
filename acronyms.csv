@@ -60,6 +60,7 @@ CSIRT,Computer Security Incident Response Team,Information Security,
 CSR,Certificate Signing Request,Cryptography,
 CSS,Cascading Style Sheet,Software Development,
 CTA,Call To Action,Business,
+CTA,Corporate Transparency Act,Business,Compliance
 CTI,Cyber Threat Intelligence,Information Security,
 CTPH,Context Triggered Piecewise Hashing,Information Security,
 CUPS,Common Unix Printing System,Computer Science,
@@ -286,4 +287,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-CTA,Corporate Transparency Act,Business,Compliance
