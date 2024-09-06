@@ -124,6 +124,7 @@ HSS,Hollow Structural Section,Engineering,
 HSS,High-Speed Steel,Manufacturing,cutting tools
 HTML,Hypertext Markup Language,Software Development,
 HTTP,Hyper Text Transfer Protocol,Computer Science,
+HVAC,Heating Ventilation & Air Conditioning,Engineering,
 IAB,Initial Access Broker,Information Security,
 IANA,Internet Assigned Numbers Authority,Computer Science,
 IAQ,Indoor Air Quality,Mechanical Engineering,HVAC Design
@@ -290,5 +291,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-HVAC,Heating Ventilation & Air Conditioning,Engineering,
-
