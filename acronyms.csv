@@ -66,6 +66,7 @@ CTI,Cyber Threat Intelligence,Information Security,
 CTPH,Context Triggered Piecewise Hashing,Information Security,
 CUPS,Common Unix Printing System,Computer Science,
 CVE,Common Vulnerabilities & Exposures,Information Security,Vulnerability Management
+CVSS,Common Vulnerability Scoring System,Information Security,Vulnerability Management
 DANE,Dns-Based Authentication Of Named Entities,Information Security,SMTP email feature
 DCOM,Distributed Component Object Model,Computer Science,
 DER, Distinguished Encoding Rules,Cryptography,pem File
@@ -292,4 +293,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-CVSS,Common Vulnerability Scoring System,Information Security,Vulnerability Management
