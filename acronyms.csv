@@ -185,6 +185,7 @@ NFT,Non-Fungible Token,Cryptography,
 NIC,Network Interface Card,Computer Hardware,
 NIST,National Institute Of Standards And Technology,Information Security,
 NORA,No One Right Answer,Computer Science,LLMs and Artificial Intelligence
+NPU,Neural Processing Unit,Computer Hardware,
 NTP,Network Time Protocol,Computer Science,
 NURBS,Non-Uniform Rational B-Splines,Engineering,
 NVD,National Vulnerability Database,Information Security,Vulnerability Management
@@ -298,4 +299,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-NPU,Neural Processing Unit,Computer Hardware,
