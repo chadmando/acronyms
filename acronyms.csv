@@ -6,6 +6,7 @@ ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
 AHU,Air-Handling Unit,Mechanical Engineering,HVAC Equipment
 AISI,American Iron And Steel Institute,Mechanical Engineering,organization
+AJAX,Asynchronous Javascript And Xml,Computer Science,
 APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ARR,Annual Recurring Revenue,Business,
@@ -243,6 +244,7 @@ SCSI,Small Computer System Interface,Computer Hardware,
 SCTP,Stream Control Transmission Protocol,Computer Networking,
 SDK,Software Development Kit,Software Development,
 SEPA,Single Euro Payment Area,Business,banking and wire transfers
+SGML,Standard Generalized Markup Language,Computer Science,
 SHCS,Socket Head Cap Screw,Mechanical Engineering,Tool Design
 SIEM,Security Information & Event Management,Information Security,
 SIP,Session Initiation Protocol,Computer Networking,
@@ -300,5 +302,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-AJAX,Asynchronous Javascript And XML,Computer Science,
-SGML,Standard Generalized Markup Language,Computer Science,
