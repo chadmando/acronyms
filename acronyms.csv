@@ -82,6 +82,7 @@ DLP,Data Loss Prevention,Information Security,
 DMARC,Domain-Based Message Authentication Reporting & Comformance,Computer Science,Email
 DNS,Domain Name System,Computer Science,
 DOAS,Dedicated Outdoor Air System,Mechanical Engineering,HVAC Equipment; sometimes outdoor <-> outside
+DOM,Disk On Module,Computer Hardware,
 DRY,Don'T Repeat Yourself,Software Development,
 DSL,Digital Subscriber Line,Utilities,
 DSL,Domain Specific Language,Software Development,
@@ -302,4 +303,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-DOM,Disk On Module,Computer Hardware,
