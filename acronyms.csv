@@ -275,7 +275,7 @@ TI,Tenant Improvement,Construction,
 TIG,Tungsten Inert Gas,Manufacturing,see also GTAW
 TLD,Top Level Domain,Computer Science,overseen by IANA
 TLS,Transport Layer Security,Cryptography,
-TOFU,Trust On First Use, Cryptography,
+TOFU,Trust On First Use,Cryptography,
 TPI,Threads Per Inch,Mechanical Engineering,threaded fasteners
 TPM,Trusted Platform Module,Computer Hardware,
 TRNG,True Random Number Generator,Cryptography,
@@ -304,3 +304,5 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
+DLP,Discrete Logarithm Problem,Cryptography,
+PKC,Public Key Cryptosystem,Cryptography,
