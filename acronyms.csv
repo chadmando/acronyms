@@ -79,6 +79,7 @@ DHCP,Dynamic Host Configuration Protocol,Computer Science,
 DIMM,Dual In-Line Memory Module,Computer Hardware,
 DKIM,Domainkeys Identified Mail,Computer Science,Email
 DLP,Data Loss Prevention,Information Security,
+DLP,Discrete Logarithm Problem,Cryptography,
 DMARC,Domain-Based Message Authentication Reporting & Comformance,Computer Science,Email
 DNS,Domain Name System,Computer Science,
 DOAS,Dedicated Outdoor Air System,Mechanical Engineering,HVAC Equipment; sometimes outdoor <-> outside
@@ -213,6 +214,7 @@ PE,Portable Executable,Computer Science,windows based OS
 PESTEL,Political Economic Social Technological Environmental Legal, Business, strategic
 PFS,Perfect Forward Secrecy,Cryptography,
 PII,Personally Identifiable Information,Information Security,privacy and compliance
+PKC,Public Key Cryptosystem,Cryptography,
 PKCS,Public Key Cryptography Standards,Cryptography,
 PKI,Public Key Infrastructure,Cryptography,
 PLEBKAC,Problem Lies Between Keyboard And Chair,System Administration,
@@ -304,5 +306,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-DLP,Discrete Logarithm Problem,Cryptography,
-PKC,Public Key Cryptosystem,Cryptography,
