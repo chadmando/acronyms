@@ -8,7 +8,7 @@ def main(input_file):
     for line in data:
         line['Acronym'] = (line['Acronym']).upper()
         line['Meaning'] = (line['Meaning']).title()
-        line['Context'] = (line['Context']).title()
+        line['Context'] = (line['Context']).title().strip()
         linted_data.append(line)
 
     linted_data = sorted(linted_data, key=lambda a: a['Acronym'])
