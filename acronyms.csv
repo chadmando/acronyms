@@ -183,6 +183,7 @@ MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
 MRU,Most Recently Used,Computer Science,
 MTTR,Mean Time To Repair,Business,can also be used in incident response as a metric
+NACHA,National Automated Clearing House Association,Business,non-profit
 NAS,Network Attached Storage,Computer Hardware,
 NAT,Network Address Transation,Computer Networking,
 NFT,Non-Fungible Token,Cryptography,
@@ -211,7 +212,7 @@ PBGC,Pension Benefit Guaranty Corporation,Business,Government protection for pen
 PCI,Payment Card Industry,Business,also used in information security due to compliance
 PDCA,Plan Do Check Act,Business,improvement tools
 PE,Portable Executable,Computer Science,windows based OS
-PESTEL,Political Economic Social Technological Environmental Legal, Business, strategic
+PESTEL,Political Economic Social Technological Environmental Legal,Business, strategic
 PFS,Perfect Forward Secrecy,Cryptography,
 PII,Personally Identifiable Information,Information Security,privacy and compliance
 PKC,Public Key Cryptosystem,Cryptography,
@@ -306,4 +307,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-NACHA,National Automated Clearing House Association,Business,non-profit
