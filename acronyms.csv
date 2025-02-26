@@ -76,6 +76,7 @@ DES,Data Encryption Standard,Cryptography,
 DFIR,Digital Forensics And Incident Response,Information Security,
 DFS,Distributed File System,Computer Science,
 DHCP,Dynamic Host Configuration Protocol,Computer Science,
+DICOM,Digital Imaging And Communications In Medicine,Medical,common medical image Format
 DIMM,Dual In-Line Memory Module,Computer Hardware,
 DKIM,Domainkeys Identified Mail,Computer Science,Email
 DLP,Data Loss Prevention,Information Security,
@@ -229,6 +230,7 @@ PSK,Pre-Shared Key,Cryptography,
 PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
 QUIC,Quick Udp Internet Connection,Cryptography,TLS using UDP converted 
 RAG,Retrieval Augmented Generation,Artificial Intelligence,LLMs combined retreival and generation
+RAID,Redundant Array Of Independent Disks,Computer Hardware,the I was originally for Inexpensive
 RAM,Random Access Memory,Computer Hardware,
 RBAC,Role Based Access Controls,Information Security,
 RCE, Remote Code Execution,Information Security,
@@ -307,5 +309,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-DICOM,Digital Imaging and Communications in Medicine,Medical,common medical image Format
-RAID,Redundant Array of Independent Disks,Computer Hardware,the I was originally for Inexpensive
