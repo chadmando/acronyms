@@ -290,6 +290,7 @@ TUI,Text User Interface,Software Development,sometimes shown as Text-Based
 UART,Universal Asynchronous Receiver-Transmitter,Computer Hardware,
 UCC,Uniform Commercial Code,Business,
 UDP,User Datagram Protocol,Computer Networking,
+UEFI,Unified Extensible Firmware Interface,Computer Science,similar in function to BIOS
 UPN,User Principal Name,Computer Science,
 URI,Universal Resource Identifier,Computer Science,
 URL,Universal Resource Locator,Computer Science,
@@ -310,4 +311,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-UEFI,Unified Extensible Firmware Interface,Computer Science,similar in function to BIOS
