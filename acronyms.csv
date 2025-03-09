@@ -18,6 +18,7 @@ AV,Anti-Virus,Information Security,
 BDUF,Big Design Up Front,Software Development,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
+BIOS,Basic Input Output System,Computer Science,PC firmware
 BOD,Basis Of Design,Engineering,
 BOIR,Beneficial Ownership Information Report,Business,Compliance
 BOM,Bill Of Materials,Engineering,
@@ -311,5 +312,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-BIOS,Basic Input Output System,Computer Science,PC firmware
-
