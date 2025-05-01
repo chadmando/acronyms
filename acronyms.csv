@@ -176,6 +176,7 @@ MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
 MAU,Make-Up Air Unit,Mechanical Engineering,HVAC Equipment
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
+MCP,Model Context Protocol,Computer Science,for communicating with LLMs
 MERV,Minimum Efficiency Reported Value,Mechanical Engineering,HVAC Equipment
 MFA,Multi-Factor Authentication,Information Security,
 MFT,Managed File Transfer,Information Technology,
@@ -312,4 +313,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-MCP,Model Context Protocol,Computer Science,for communicating with LLMs
