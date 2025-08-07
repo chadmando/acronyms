@@ -18,6 +18,7 @@ AV,Anti-Virus,Information Security,
 BDUF,Big Design Up Front,Software Development,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
+BGP,Border Gateway Protocol,Computer Networking,
 BIOS,Basic Input Output System,Computer Science,PC firmware
 BOD,Basis Of Design,Engineering,
 BOIR,Beneficial Ownership Information Report,Business,Compliance
@@ -103,6 +104,7 @@ EMR,Experience Modification Rating,Business,a consideration for WC insurance
 EOL,End Of Life,Software Development,no additional features or patches
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
+ETW,Event Tracing For Windows,Computer Science,Microsoft specific acronym
 FEA,Finite Element Analysis,Engineering,
 FFT,Fast Fourier Transform,Mathamatics,
 FIFO,First-In First-Out,Business,Inventory framework
@@ -313,5 +315,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ETW,Event Tracing for Windows,Computer Science,Microsoft specific acronym
-BGP,Border Gateway Protocol,Computer Networking,
