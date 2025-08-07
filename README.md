@@ -7,7 +7,7 @@
 
  Reminders on what not to include:
  1. No common government agencies (e.g. IRS, FBI, CIA, etc.)
- 1. No common acronyms that have become integrated into modern language (e.g. SCUBA, PIN, etc.) 
+ 1. No common acronyms that have become integrated into modern English language (e.g. SCUBA, PIN, etc.) 
  
  ## Future Plans
 
