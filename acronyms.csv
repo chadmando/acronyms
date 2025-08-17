@@ -216,6 +216,7 @@ OTP,One-Time Pad,Cryptography,
 PAM,Privileged Access Management,Information Security,
 PBGC,Pension Benefit Guaranty Corporation,Business,Government protection for pension plans
 PCI,Payment Card Industry,Business,also used in information security due to compliance
+PCRE,Perl-Compatible Regular Expressions,Computer Science,
 PDCA,Plan Do Check Act,Business,improvement tools
 PE,Portable Executable,Computer Science,windows based OS
 PESTEL,Political Economic Social Technological Environmental Legal,Business, strategic
@@ -315,4 +316,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-PCRE,Perl-Compatible Regular Expressions,Computer Science,
