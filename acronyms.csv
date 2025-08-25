@@ -1,6 +1,7 @@
 Acronym,Meaning,Context,Notes
 ACH, Automated Clearing House,Business,financial transactions
 ACL,Access Control List,Information Security,
+ACME,Automated Certificate Management Environment,Information Security,
 ADFS,Active Directory Federation Services,Microsoft Windows Server,
 ADS,Alternate Data Streams,Computer Science,
 AES,Advanced Encryption Standard,Cryptography,
@@ -316,4 +317,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ACME,Automated Certificate Management Environment,Information Security,
