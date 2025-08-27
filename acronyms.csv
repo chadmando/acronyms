@@ -57,6 +57,8 @@ COTS,Commercial Off The Shelf,Information Security,Software Assets
 CPA,Certified Public Accountant,Business,
 CPCU,Chartered Property Casualty Underwriter,Business,Insurance
 CPU,Central Processing Unit,Computer Hardware,
+CRAC,Computer Room Air Conditioning,Mechanical Engineering,HVAC Equipment
+CRAH,Computer Room Air Handler,Mechanical Engineering,HVAC Equipment
 CRL,Certificate Revocation List,Cryptography,
 CRM,Customer Relationship Management,Business,sales tools
 CRS,Cold Rolled Steel,Mechanical Engineering,
@@ -318,5 +320,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-CRAH,Computer Room Air Handler,Mechanical Engineering,HVAC Equipment
-CRAC,Computer Room Air Conditioning,Mechanical Engineering,HVAC Equipment
