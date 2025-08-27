@@ -105,6 +105,7 @@ EMR,Experience Modification Rating,Business,a consideration for WC insurance
 EOL,End Of Life,Software Development,no additional features or patches
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
+ESOP,Employee Stock Ownership Program,Business,
 ETW,Event Tracing For Windows,Computer Science,Microsoft specific acronym
 FEA,Finite Element Analysis,Engineering,
 FFT,Fast Fourier Transform,Mathamatics,
@@ -317,4 +318,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ESOP,Employee Stock Ownership Program,Business,
