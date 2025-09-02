@@ -238,6 +238,7 @@ PPO,Preferred Provider Organization,Business,health insurance
 PRNG,Pseudorandom Number Generator,Cryptography,
 PSK,Pre-Shared Key,Cryptography,
 PTAC,Packaged Terminal Air Conditioner,Mechanical Engineering,HVAC Equipment
+QDRO,Qualified Domestic Relations Order,Legal,order for retirement plan to pay
 QUIC,Quick Udp Internet Connection,Cryptography,TLS using UDP converted 
 RAG,Retrieval Augmented Generation,Artificial Intelligence,LLMs combined retreival and generation
 RAID,Redundant Array Of Independent Disks,Computer Hardware,the I was originally for Inexpensive
@@ -272,6 +273,7 @@ SMART,Specific Measurable Attainable Relevant Time-Bound,Business,goal setting
 SMB,Server Message Block,Computer Science,
 SME,Subject Matter Expert,General,
 SMTP,Simple Mail Transfer Protocol,Computer Science,e-mail
+SNI,Server Name Indication,Cryptography,TLS feature to distinguis many sites hosted at the same IP address
 SNMP,Simple Network Management Protocol,Computer Science,
 SOFR,Secured Overnight Financing Rate,Business,bank borrowing rate for many RLOCs
 SPA,Single-Page Application,Software Development,
@@ -320,5 +322,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-QDRO,Qualified Domestic Relations Order,Legal,order for retirement plan to pay
-SNI,Server Name Indication,Cryptography,TLS feature to distinguis many sites hosted at the same IP address
