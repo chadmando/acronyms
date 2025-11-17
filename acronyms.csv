@@ -137,6 +137,7 @@ HSM,Hardware Security Module,Computer Hardware,
 HSS,Hollow Structural Section,Engineering,
 HSS,High-Speed Steel,Manufacturing,cutting tools
 HTML,Hypertext Markup Language,Software Development,
+HTS,Harmonized Tariff Schedule,Business,used to determine the tariff or duties on goods imported to the USA
 HTTP,Hyper Text Transfer Protocol,Computer Science,
 HVAC,Heating Ventilation & Air Conditioning,Engineering,
 IAB,Initial Access Broker,Information Security,
@@ -323,4 +324,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-HTS,Harmonized Tariff Schedule,Business,used to determine the tariff or duties on goods imported to the USA
