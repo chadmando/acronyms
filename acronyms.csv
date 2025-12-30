@@ -151,6 +151,7 @@ IDEA,International Data Encryption Algorithm,Cryptography,
 IDS,Intrusion Detection System,Information Security,
 IEER,Integrated Energy Efficiency Ratio,Mechanical Engineering,HVAC Equipment
 IETF,Internet Engineering Task Force,Computer Science,
+IFSC,India Finanical System Code,Banking,
 IKE,Internet Key Exchange,Cryptography,
 IMAP,Internet Message Access Protocol,Computer Science,
 IOC,Indicators Of Compromise,Information Security,
@@ -324,4 +325,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-IFSC,India Finanical System Code,Banking,
