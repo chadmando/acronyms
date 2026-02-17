@@ -61,7 +61,7 @@ CRAC,Computer Room Air Conditioning,Mechanical Engineering,HVAC Equipment
 CRAH,Computer Room Air Handler,Mechanical Engineering,HVAC Equipment
 CRL,Certificate Revocation List,Cryptography,
 CRM,Customer Relationship Management,Business,sales tools
-CRS,Cold Rolled Steel,Mechanical Engineering,
+CRS,Cold Rolled Steel,Mechanical Engineering,Materials
 CRUD,Create Read Update Delete,Software Development,
 CSA,Cloud Security Alliance,Information Security,organization
 CSIRT,Computer Security Incident Response Team,Information Security,
@@ -132,7 +132,7 @@ HIPAA,Health Insurance Portability & Accountability Act,Business,Hard
 HIPS,Host Intrusion Prevention System,Information Security,
 HMAC,Hashed Messaged Authentication Code,Cryptography,also seen as Keyed-Hash or Hash-Based
 HMO,Health Maintenance Organization,Business,health insurance
-HRS,Hot Rolled Steel,Mechanical Engineering,
+HRS,Hot Rolled Steel,Mechanical Engineering,Materials
 HSM,Hardware Security Module,Computer Hardware,
 HSS,Hollow Structural Section,Engineering,
 HSS,High-Speed Steel,Manufacturing,cutting tools
@@ -325,3 +325,4 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
+HRPO,Hot Rolled Pickled and Oiled,Mechanical Engineering,Materials
