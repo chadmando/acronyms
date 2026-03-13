@@ -12,6 +12,7 @@ APT,Advanced Persistent Threat,Information Security,
 ARP,Address Resolution Protocol,Computer Networking,
 ARR,Annual Recurring Revenue,Business,
 ASCII,American Standard Code For Information Interchange,Computer Science,
+ASN,Autonomous System Numbers,Computer Networking,blocks of IP addresses under the same control
 ASR,Attack Surface Reduction,Information Security,First occasion was Microsoft Defender for Endpoint
 AST,Abstract Syntax Tree,Computer Science,
 ASTM,American Society For Testing And Materials,Mechanical Engineering,
@@ -327,4 +328,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-ASN,Autonomous System Numbers,Computer Networking,blocks of IP addresses under the same control
