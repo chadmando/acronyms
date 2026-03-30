@@ -183,7 +183,6 @@ LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
 MAC,Message Authentication Code,Cryptography,
 MAC,Mandatory Access Controls,Information Security,
-MUA,Make-Up Air Unit,Mechanical Engineering,HVAC Equipment
 MBTI,Myers-Briggs Type Indicator,Personality Testing,
 MCP,Model Context Protocol,Computer Science,for communicating with LLMs
 MERV,Minimum Efficiency Reported Value,Mechanical Engineering,HVAC Equipment
@@ -196,6 +195,7 @@ MQTT,Message Queueing Telemetry Transport,Computer Networking,
 MRM,Messaging Records Management,System Administration,
 MRU,Most Recently Used,Computer Science,
 MTTR,Mean Time To Repair,Business,can also be used in incident response as a metric
+MUA,Make-Up Air Unit,Mechanical Engineering,HVAC Equipment
 NACHA,National Automated Clearing House Association,Business,non-profit
 NAS,Network Attached Storage,Computer Hardware,
 NAT,Network Address Transation,Computer Networking,
