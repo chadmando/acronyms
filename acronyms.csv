@@ -21,6 +21,7 @@ BDUF,Big Design Up Front,Software Development,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
 BGP,Border Gateway Protocol,Computer Networking,
+BIBO,Bag In Bag Out,Mechancial Engineering, HVAC Equipment
 BIOS,Basic Input Output System,Computer Science,PC firmware
 BOD,Basis Of Design,Engineering,
 BOIR,Beneficial Ownership Information Report,Business,Compliance
@@ -262,6 +263,7 @@ RLOC,Revolving Line Of Credit,Business,banking and finance
 ROI,Return On Investment,Business,
 ROM,Read-Only Memory,Computer Science,
 ROU,Right Of Use,Business,Accounting for leases
+RTU,Roof Top Unit,Mechanical Engineering,HVAC Equipment
 SAML,Security Assertion Markup Language,Information Security,
 SAN,Storage Area Network,Computer Science,
 SCSI,Small Computer System Interface,Computer Hardware,
@@ -329,5 +331,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-BIBO,Bag In Bag Out, Mechancial Engineering, HVAC Equipment
-RTU,Roof Top Unit,Mechanical Engineering,HVAC Equipment
