@@ -106,6 +106,7 @@ EFT,Electronic Funds Transfer,Business,financial transactions
 EIN,Employer Identification Number,Business,
 EMR,Experience Modification Rating,Business,a consideration for WC insurance
 EOL,End Of Life,Software Development,no additional features or patches
+EPSS,Exploit Prediction Scoring System,Information Security,Vulnerability
 ERP,Enterprise Resource Planning,Business,software
 ERV,Energy Recovery Ventilator,Mechanical Engineering,HVAC Equipment
 ESOP,Employee Stock Ownership Program,Business,
@@ -332,4 +333,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-EPSS,Exploit Prediction Scoring System,Information Security,Vulnerability
