@@ -50,6 +50,7 @@ CMS,Cryptographic Message Syntax,Cryptography,
 CMS,Content Management System,Software Development,
 CNA,Cve Numbering Authority,Information Security,Vulnerability Management
 CNC,Computer Numerical Control,Manufacturing,
+COB,Change Over Box,Mechanical Engineering,HVAC Equipment VRF Heat Recovery
 COI,Certificate Of Insurance,Business,
 COM,Common Object Model,Software Development,windows software
 COPE,Corporate-Owned Personally Enabled,Information Technology,corporate <-> company
@@ -332,4 +333,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-COB,Change Over Box,Mechanical Engineering,HVAC Equipment VRF Heat Recovery
