@@ -17,6 +17,7 @@ ASR,Attack Surface Reduction,Information Security,First occasion was Microsoft D
 AST,Abstract Syntax Tree,Computer Science,
 ASTM,American Society For Testing And Materials,Mechanical Engineering,
 AV,Anti-Virus,Information Security,
+BCD,Bolt Circle Diameter,Mechanical Engineering,Drafting
 BDUF,Big Design Up Front,Software Development,
 BEC,Business Email Compromise,Information Security,
 BGP,Border Gateway Protocol,Computer Networking,
@@ -334,4 +335,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-BCD,Bolt Circle Diameter,Mechanical Engineering,Drafting
