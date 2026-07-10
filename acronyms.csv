@@ -182,6 +182,7 @@ LAN,Local Area Network,Computer Networking,
 LDAP,Lightweight Directory Access Protocol,Computer Science,
 LIFO,Last-In First-Out,Computer Science,describes the stack; also applies as a physical inventory framework
 LLM,Large Language Model,Computer Science,Artificial Intelligence
+LPCAMM,Low Power Compression Attached Memory Module,Computer Science,first noticed as a feature in Dell laptops July 2026
 LRU,Least Recently Used,Computer Science,
 LVM,Logical Volume Manager,Computer Science,
 MAC,Media Access Control,Computer Networking,
@@ -335,4 +336,3 @@ XML,Extensible Markup Language,Software Development,serialized data
 YAGNI,You'Re Not Gonna Need It,Software Development,
 YARA,Yet Another Ridiculous Acronym,Information Security,sometimes the R is Recursive
 ZFS,Zettabyte File System,Computer Science,
-LPCAMM,Low Power Compression Attached Memory Module,Computer Science,first noticed as a feature in Dell laptops July 2026
