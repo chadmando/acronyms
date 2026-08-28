@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: check-acronym-duplicates
+        name: Check acronyms.csv for duplicate entries
+        entry: python3 check_duplicates.py
+        language: system
+        files: ^acronyms\.csv$
+        pass_filenames: false
